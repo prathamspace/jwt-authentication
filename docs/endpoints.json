@@ -1,0 +1,4 @@
+{
+    "Generate Token": "{{base_Url}} /wp-json /pratham-jwt/v1 /auth  ?username=tester&password=test"
+    
+}
